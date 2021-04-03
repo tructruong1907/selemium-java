@@ -1,0 +1,7 @@
+<suite name="demo">
+    <test name="testNG">
+        <classes>
+            <class name="Modules.TestNgExample"/>
+        </classes>
+    </test>
+</suite>
